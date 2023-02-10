@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React, { useContext, useState } from 'react'
-import { UserContext } from '../Context';
+import { UserContext } from '../../Context';
 import stimage from '../images/stimage.png'
 
 const Panel = () => {       

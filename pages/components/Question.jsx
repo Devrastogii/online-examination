@@ -5,7 +5,7 @@ import opt2 from "../images/opt2.png";
 import opt3 from "../images/opt3.png";
 import opt4 from "../images/opt4.png";
 import Image from "next/image";
-import { UserContext } from "../Context";
+import { UserContext } from "../../Context";
 
 const Question = () => {
 
